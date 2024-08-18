@@ -1,0 +1,24 @@
+body
+{
+  color: #FF006E;
+  background: #60aedb;
+  
+}
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+  color: #0b411b;
+  background-color: #e49ebc;
+}
+#camera 
+{
+  border: 2px dashed rgb(82, 53, 36);
+  width: 350px;
+  height: 300px; 
+}
+.nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+{
+  color: #c70751;
+  font-size: 18px;
+}
